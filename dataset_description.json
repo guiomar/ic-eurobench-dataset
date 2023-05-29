@@ -1,0 +1,20 @@
+{
+    "Name": "Neuromark",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+
+        "Adriana Torres",
+        "Diego Torricelli"
+    ],
+    "Acknowledgements": "This work was supported by the XXXX. We would also like to acknowledge the contribution of xxxx for providing xxxx.",
+    "HowToAcknowledge": "Cite this paper: xxxx",
+    "Funding": [
+        "xxxx"
+    ],
+    "ReferencesAndLinks": [
+        "xxxx"
+    ],
+    "DatasetDOI": "xxxx"
+}
