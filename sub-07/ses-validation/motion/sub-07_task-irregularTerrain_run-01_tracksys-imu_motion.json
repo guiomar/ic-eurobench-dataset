@@ -1,0 +1,31 @@
+{
+    "TaskName": "Irregular Terrain",
+    "TaskDescription": "walking xxxx",
+    "Instructions": "xxxx",
+
+    "DeviceSerialNumber":"xxxx",
+    "Manufacturer": "BWSensing",
+    "ManufacturersModelName": "BW-IMU600",
+    "SoftwareVersions": "xxxx",
+    "TrackingSystemName": "IMU Right Hand",
+       
+    "InstitutionName": "xxxx",
+    "InstitutionAddress": "xxxx",
+    "InstitutionalDepartmentName":"xxxx",
+
+    "SamplingFrequency": 60,
+    "SamplingFrequencyEffective": 60.00197437,
+    "RecordingDuration": 4667.641106,
+
+    "ACCELChannelCount": 6,
+    "GYROChannelCount": 6,
+    "MAGNChannelCount": 6,
+    "TrackedPointsCount" : 2,
+    "MotionChannelCount": 18,
+
+    "RotationRule": "right-hand",
+    "RotationOrder": "ZXY",
+    "SpatialAxes": "FRU",
+    "SubjectArtefactDescription": "n/a"
+
+   }
